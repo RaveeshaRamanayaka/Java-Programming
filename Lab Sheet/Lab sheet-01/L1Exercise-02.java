@@ -8,7 +8,7 @@
     ===================================
 */
 
-class Lab1Ex2 {
+class L1Exercise-02 {
     public static void main(String[] args) {
         System.out.println("=========================================");
         System.out.println("=\tStudent Information\t\t=");
