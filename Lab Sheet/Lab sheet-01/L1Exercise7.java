@@ -2,7 +2,7 @@
     Declare two integer variables to store the numbers to be added.
 */
 
-class L1Exercise-07 {
+class L1Exercise7 {
     public static void main(String[] args) {
         
         // Declare two integer variables to store the numbers to be added or find average.
