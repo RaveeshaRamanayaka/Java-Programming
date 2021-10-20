@@ -9,7 +9,7 @@
     Message “Good Bye” must appear at last
 */
 
-class L1Exercise-04 {
+class L1Exercise4 {
     public static void main(String[] args) {
 
         int dayNumber = 4;
