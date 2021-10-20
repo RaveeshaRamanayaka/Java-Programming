@@ -7,7 +7,7 @@
     * * * * *   * * * * *
 */
 
-class L1Exercise-06 {
+class L1Exercise6 {
     public static void main(String[] args) {
 
         int column = 0;
