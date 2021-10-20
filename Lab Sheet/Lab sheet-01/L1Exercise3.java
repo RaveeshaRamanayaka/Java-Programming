@@ -2,7 +2,7 @@
     If age is greater than 18 it should print “Adult” otherwise print “Child”.
 */
 
-class L1Exercise-03 {
+class L1Exercise3 {
     public static void main(String[] args) {
         int age = 19;
 
