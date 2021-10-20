@@ -13,7 +13,7 @@
     * * * * *
 */
 
-class L1Exercise-05 {
+class L1Exercise5 {
     public static void main(String[] args) {
         
         int column = 0;
