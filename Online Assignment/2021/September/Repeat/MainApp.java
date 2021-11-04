@@ -8,9 +8,9 @@ public class MainApp {
 		Receptionist rs = new Receptionist("Amal","958432982V", 1);
 		
 		Counsellor co = new Counsellor("Rathnayake", "925438761V", "nRathnayake@gmail.com", "Dermatologist");
-		co.addHospital("Leesons Hospitals Ltd");
-		co.addHospital("Lanka Hospitals");
-		co.addHospital("Royal Hospital");
+		co.addHospital("Leesons Hospital");
+		co.addHospital("Lanka Hospital");
+		co.addHospital("Hemas Hospitals");
 		co.addHospital("Nawaloka Hospital");
 		co.addHospital("Asiri Surgical Hospital");
 		
