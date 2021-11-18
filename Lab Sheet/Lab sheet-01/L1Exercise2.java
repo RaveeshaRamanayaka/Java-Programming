@@ -5,8 +5,7 @@
     = Name          : ARDP Ranasignhe =
     = Reg No        : DIS\08\M4\1234  =
     = Address       : Malabe          =
-    ===================================
-*/
+    =================================== */
 
 class L1Exercise2 {
     public static void main(String[] args) {
