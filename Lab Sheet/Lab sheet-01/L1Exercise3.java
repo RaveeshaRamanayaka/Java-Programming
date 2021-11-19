@@ -1,5 +1,6 @@
 /*  Write a program to validate a given age of a person using if-else statements.
-    If age is greater than 18 it should print “Adult” otherwise print “Child”. */
+    If age is greater than 18 it should print “Adult” otherwise print “Child”. 
+*/
 
 class L1Exercise3 {
     public static void main(String[] args) {
