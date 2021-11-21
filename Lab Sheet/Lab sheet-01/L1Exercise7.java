@@ -1,6 +1,5 @@
 /*  Write a Java program to add two integers and display the sum and the average of two Integers.
-    Declare two integer variables to store the numbers to be added.
-*/
+    Declare two integer variables to store the numbers to be added. */
 
 class L1Exercise7 {
     public static void main(String[] args) {
