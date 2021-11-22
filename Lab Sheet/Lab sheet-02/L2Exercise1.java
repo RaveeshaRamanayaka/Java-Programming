@@ -1,6 +1,7 @@
 // Exercise 1
 
-/* a) Declare two integer variables, miles and yards, and one double variable for
+/* 
+a) Declare two integer variables, miles and yards, and one double variable for
 kilometers
 b) Initialize the variables to hold the number of miles and yards in a marathon respectively
 (miles to 26 and yards to 385).
