@@ -1,6 +1,7 @@
 // Exercise 3
 
-/* Write a program to calculate the volume of a cube when length, width and height are
+/* 
+Write a program to calculate the volume of a cube when length, width and height are
 given as keyboard inputs. */
 
 import java.util.Scanner; // Use java Scanner package
