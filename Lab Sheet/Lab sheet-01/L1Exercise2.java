@@ -1,4 +1,5 @@
-/* Write a program to get the following output:
+/*
+    Write a program to get the following output:
     ===================================
     =       Student Information       =
     ===================================
