@@ -1,4 +1,5 @@
-/* Write a program that produces the following output:
+/*
+    Write a program that produces the following output:
     Hello World!
     It's been nice knowing you.
     Goodbye world!
