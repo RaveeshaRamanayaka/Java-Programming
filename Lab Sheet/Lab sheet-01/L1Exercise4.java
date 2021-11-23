@@ -1,5 +1,6 @@
-/*  Write a program to display the day of the week when you provide the value.
-     Expected Output:
+/*  
+    Write a program to display the day of the week when you provide the value.
+    Expected Output:
             Value of the day : 4
             Day of the week : Thursday
             Good Bye!
